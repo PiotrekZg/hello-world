@@ -1,3 +1,3 @@
 # hello-world
 
-To projekt hello-rorld :)
+To projekt hello-world :)
